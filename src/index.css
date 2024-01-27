@@ -1,0 +1,22 @@
+
+
+.black {
+  background: rgb(20,20,20);
+}
+
+.white {
+  background:rgb(255,255,255);
+}
+
+
+
+.home-card-col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+#root {
+  padding: 24px;
+}
